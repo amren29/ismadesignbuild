@@ -44,7 +44,6 @@ export default function Footer() {
               {[
                 { name: "Projects", href: "/projects" },
                 { name: "About", href: "/about" },
-                { name: "Offers", href: "/offers" },
                 { name: "Payment Methods", href: "/payment-methods" },
                 { name: "Blogs", href: "/blogs" },
                 { name: "Contact", href: "/contact" },

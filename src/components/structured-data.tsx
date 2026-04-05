@@ -60,44 +60,6 @@ export default function StructuredData() {
       "Wardrobe Design",
       "Exhibition Booth Design"
     ],
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Interior Design Services",
-      "itemListElement": [
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Interior Planning & Design",
-            "description": "Custom interior design plans and proposals tailored to your space and lifestyle"
-          }
-        },
-        {
-          "@type": "Offer", 
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Custom Cabinet Making",
-            "description": "Bespoke kitchen cabinets, wardrobes, and TV consoles designed to fit your exact needs"
-          }
-        },
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service", 
-            "name": "Home Renovation",
-            "description": "Complete renovation services from small updates to full house makeovers"
-          }
-        },
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Exhibition Booth Design", 
-            "description": "Custom trade show and exhibition booth design and construction"
-          }
-        }
-      ]
-    },
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
